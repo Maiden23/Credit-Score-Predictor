@@ -22,7 +22,7 @@ Clone the repository and install dependencies:
 
 ```bash
 
-pip install -r requirements.txt
+pip install -r pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 ```
 
 📊 Project Workflow
