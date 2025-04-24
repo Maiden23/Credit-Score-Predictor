@@ -27,6 +27,8 @@ pip install -r requirements.txt
 ```
 
 📊 Project Workflow
+
+
 ✅ 1. Data Loading & Cleaning
 Loaded the CSV dataset
 
