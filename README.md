@@ -21,8 +21,7 @@ This dataset contains anonymized information about customers applying for credit
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/german-credit-risk.git
-cd german-credit-risk
+
 pip install -r requirements.txt
 ```
 
