@@ -3,7 +3,9 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Made with 💡](https://img.shields.io/badge/Made%20with-%F0%9F%92%A1-blueviolet)](#)
-WEBSITE : Credit-Card_Risk(https://maiden23-credit-score-predictor-web-ic9jfd.streamlit.app/)
+
+**Website:** [Credit Card Risk Predictor](https://maiden23-credit-score-predictor-web-ic9jfd.streamlit.app/)
+
 A machine learning project to predict **credit risk** using the **German Credit Data** from Kaggle. This repo covers data preprocessing, exploratory data analysis, unsupervised clustering (KMeans), and supervised classification models like **XGBoost** and **Random Forest**.
 
 ---
