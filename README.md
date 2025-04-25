@@ -51,7 +51,7 @@ Applied KMeans Clustering with n_clusters=2 to segment data
 
 Cluster assignments were used as pseudo-labels
 
-This allowed us to apply supervised learning methods on an originally unlabeled dataset
+This allowed me to apply supervised learning methods on an originally unlabeled dataset
 
 ✅ 4. Model Training
 Trained the following supervised models on the KMeans-labeled data:
@@ -63,7 +63,8 @@ Trained the following supervised models on the KMeans-labeled data:
 Evaluation was done using accuracy, classification report, and confusion matrix.
 
 📌 Key Insight
-We transformed an unlabeled credit risk dataset into a supervised classification problem using KMeans, unlocking the ability to train powerful models like XGBoost and Random Forest.
+
+I transformed an unlabeled credit risk dataset into a supervised classification problem using KMeans, unlocking the ability to train powerful models like XGBoost and Random Forest.
 
 🙏 Acknowledgments
 Dataset: German Credit Data - Kaggle
